@@ -1,0 +1,3 @@
+/program/sunyinjian/self-driving-nd/term2-control/project5-mpc-control/CarND-MPC-Project/build/CMakeFiles/edit_cache.dir
+/program/sunyinjian/self-driving-nd/term2-control/project5-mpc-control/CarND-MPC-Project/build/CMakeFiles/rebuild_cache.dir
+/program/sunyinjian/self-driving-nd/term2-control/project5-mpc-control/CarND-MPC-Project/build/CMakeFiles/mpc.dir
